@@ -2,8 +2,7 @@
   "name": "ecommerce_app",
   "version": "0.1.0",
   "private": true,
-  
-  "homepage": "http://anjanavu.github.io/Ecommerce_React_App",
+  "homepage": "http://AnishaKB1.github.io/Ecommerce",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
@@ -46,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
